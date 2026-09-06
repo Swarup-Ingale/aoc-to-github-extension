@@ -68,7 +68,7 @@ container.innerHTML = `
     <div>Created by <strong>Swarup Ingale</strong></div>
     <div>
       <a href="https://github.com/Swarup-Ingale" target="_blank">GitHub Profile</a> | 
-      <a href="https://github.com/Swarup-Ingale/advent-of-code-extension/issues" target="_blank">Report an Issue</a>
+      <a href="https://github.com/Swarup-Ingale/aoc-to-github-extension/issues" target="_blank">Report an Issue</a>
     </div>
   </div>
 `;
