@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Extension packaging artifacts
+*.zip
+*.crx
+
+# IDE / Editor files
+.vscode/
+.idea/
